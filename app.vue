@@ -9,6 +9,8 @@ const annoAttuale = ref(new Date().getFullYear());
         <NuxtLink to="/" class="no-underline text-0 mr-5">Home</NuxtLink>
         <NuxtLink to="/barzellette" class="no-underline text-0 mr-5">Barzellette</NuxtLink>
         <NuxtLink to="/frasi" class="no-underline text-0 mr-5">Frasi</NuxtLink>
+        <NuxtLink to="/secret-santa" class="no-underline text-0 mr-5">Secret Santa</NuxtLink>
+        <NuxtLink to="/torneo" class="no-underline text-0 mr-5">Torneo</NuxtLink>
       </div>
     </header>
     
